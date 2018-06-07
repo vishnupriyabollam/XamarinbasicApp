@@ -1,0 +1,9 @@
+C:\Users\Vishnupriya.Bollam\Desktop\xamarin\App2\App2\App2\obj\Debug\netstandard2.0\App2.csprojAssemblyReference.cache
+C:\Users\Vishnupriya.Bollam\Desktop\xamarin\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\Vishnupriya.Bollam\Desktop\xamarin\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+C:\Users\Vishnupriya.Bollam\Desktop\xamarin\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+C:\Users\Vishnupriya.Bollam\Desktop\xamarin\App2\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+C:\Users\Vishnupriya.Bollam\Desktop\xamarin\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll
+C:\Users\Vishnupriya.Bollam\Desktop\xamarin\App2\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+C:\Users\Vishnupriya.Bollam\Desktop\xamarin\App2\App2\App2\obj\Debug\netstandard2.0\App2.dll
+C:\Users\Vishnupriya.Bollam\Desktop\xamarin\App2\App2\App2\obj\Debug\netstandard2.0\App2.pdb

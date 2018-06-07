@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SampleApp1"
+             x:Class="SampleApp1.MainPage">
+
+    <StackLayout>   
+        <!-- Place new controls here -->
+        
+
+            <ListView >
+            
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="50"></ColumnDefinition>
+                                <ColumnDefinition Width="50"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Label Text="Welcome to Book My Book" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Image Source="novels.jpg" VerticalOptions="Center" HorizontalOptions="Center"></Image>
+
+
+        <Button  Text="Book 1" Clicked="Button_Clicked"></Button>
+        <Button  Text="Book 2 " Clicked="NextButton_Clicked"></Button>
+        
+          </StackLayout>
+
+
+</ContentPage>
